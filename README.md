@@ -12,7 +12,7 @@ This project demonstrates a production-grade, cloud-native data pipeline on Micr
 - **Monitoring:** ADF Pipeline monitoring + logging
 
 <p align="center">
-  <img src="path-to-architecture-diagram" alt="Architecture Diagram" width="600"/>
+  <img src="https://github.com/user-attachments/assets/2cb0a34d-1845-47fd-9c06-911384c5ba3b" alt="Architecture Diagram" width="600"/>
 </p>
 
 ## 🔄 ETL Flow
